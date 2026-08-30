@@ -1,4 +1,4 @@
-# Fundamentos-Da-Programa-o
+# Fundamentos-Da-Programacao
 
 Repositório criado para registrar meus estudos e evolução em programação.
 

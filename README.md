@@ -1,6 +1,6 @@
 # Fundamentos-Da-Programa-o
 
-epositório criado para registrar meus estudos e evolução em programação.
+Repositório criado para registrar meus estudos e evolução em programação.
 
 Os exemplos apresentam conceitos fundamentais utilizando diferentes
 linguagens.
@@ -38,7 +38,3 @@ java/
 javascript/
 typescript/
 go/
-
-Autor
-
-José Victor Black
